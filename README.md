@@ -4,12 +4,13 @@
 
 # 🎨 Awesome Diffusion Models & Generative AI Ecosystem 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" llt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Diffusion-Models-Generative-AI?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/graphs/commit-activity)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-SaaS%20%26%20Open--Source-orange.svg)](#-saashosted-commercial-platforms)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A definitive, battle-tested, curated index of Latent Diffusion Models (LDM), Diffusion Transformers (DiT), Generative AI platforms, Text-to-Image (T2I) synthesis suites, neural fine-tuning frameworks, and creative production pipelines.**
 
@@ -22,6 +23,8 @@
 - [💻 Open-Source GitHub Projects & Frameworks](#-open-source-github-projects--frameworks)
 - [🧠 Technical Taxonomy & Core Architectures](#-technical-taxonomy--core-architectures)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#--star-history)
 - [⚖️ Legal & Ethical Usage Disclaimer](#-legal--ethical-usage-disclaimer)
 
 ---
@@ -244,6 +247,28 @@ We welcome additions, corrections, and benchmark submissions from researchers an
    git commit -m "feat: add [Tool Name] with pricing and benchmarks"
    ```
 5. **🚀 Push and submit a Pull Request:** Open a PR against `main` with a concise explanation.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome Diffusion Models & Generative AI** directory! If this ecosystem guide has helped accelerate your projects, research, or creative pipelines, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork the repo** to benchmark models or customize workflows for your team.
+- 📢 **Share with colleagues and community members** across Twitter/X, LinkedIn, Discord, and Reddit.
+- ☕ **Support continuous development and curation** by sponsoring or buying a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Diffusion-Models-Generative-AI&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Diffusion-Models-Generative-AI&type=date&legend=top-left)
 
 ---
 
