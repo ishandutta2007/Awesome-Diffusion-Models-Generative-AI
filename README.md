@@ -5,7 +5,7 @@
 # 🎨 Awesome Diffusion Models & Generative AI Ecosystem 🚀
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" llt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Diffusion-Models-Generative-AI?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Diffusion-Models-Generative-AI?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Diffusion-Models-Generative-AI/graphs/commit-activity)
@@ -60,136 +60,136 @@ The following table benchmarks category-leading proprietary platforms. It includ
 
 ## 💻 Open-Source GitHub Projects & Frameworks
 
-The open-source generative AI movement provides self-hostable, transparent, and censorship-free alternatives to proprietary systems. Below are category-leading repositories—**sorted in descending order by GitHub Star count**, featuring live social star badges linking directly to their respective stargazers pages.
+The open-source generative AI movement provides self-hostable, transparent, and censorship-free alternatives to proprietary systems. Below are category-leading repositories—**sorted in descending order by GitHub Stars_Count**, featuring live social Stars_Badges linking directly to their respective stargazers pages.
 
 ### 🥇 1. [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-[![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers)
 - **License:** AGPL-3.0
 - **Focus:** The pioneering browser-based graphical user interface for Stable Diffusion.
 - **Key Capabilities:** Provides comprehensive txt2img, img2img, inpainting, outpainting, textual inversion, LoRA management, prompt weighting, and an expansive ecosystem of thousands of community extensions.
 
 ### 🥈 2. [comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-[![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)
 - **License:** GPL-3.0
 - **Focus:** The premier node-based visual programming graph interface for generative diffusion pipelines.
 - **Key Capabilities:** Modular visual computation graph allowing granular chaining of SD 1.5, SDXL, SD 3.5, and FLUX.1 models with ControlNet, IP-Adapter, LCM, FreeU, multi-pass upscaling, and video animation workflows with minimal VRAM overhead.
 
 ### 🥉 3. [CompVis / stable-diffusion](https://github.com/CompVis/stable-diffusion)
-[![GitHub stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social&color=white)](https://github.com/CompVis/stable-diffusion/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social&color=white)](https://github.com/CompVis/stable-diffusion/stargazers)
 - **License:** CreativeML Open RAIL-M
 - **Focus:** The historic foundation repository for High-Resolution Image Synthesis with Latent Diffusion Models.
 - **Key Capabilities:** Original reference implementation by Ludwig Maximilian University Munich (CompVis) & Runway, demonstrating cross-attention latent diffusion mechanisms that democratized generative computer vision worldwide.
 
 ### 4. [lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus)
-[![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social&color=white)](https://github.com/lllyasviel/Fooocus/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social&color=white)](https://github.com/lllyasviel/Fooocus/stargazers)
 - **License:** GPL-3.0
 - **Focus:** Minimalist, out-of-the-box local image generation interface marrying Midjourney's simplicity with Stable Diffusion's open power.
 - **Key Capabilities:** Automated prompt expansion (via GPT-2 style engines), built-in dual-model refiner mechanisms, automated contrast adjustments, native inpainting brushes, and zero-configuration high-fidelity rendering.
 
 ### 5. [xinntao / Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-[![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)
 - **License:** BSD-3-Clause
 - **Focus:** Practical state-of-the-art super-resolution and image restoration algorithms.
 - **Key Capabilities:** Restores low-resolution synthesized images, eliminates latent diffusion compression artifacts, sharpens textures, and scales outputs to 4K/8K resolution with realistic details.
 
 ### 6. [huggingface / diffusers](https://github.com/huggingface/diffusers)
-[![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)
 - **License:** Apache-2.0
 - **Focus:** The industry-standard PyTorch library for state-of-the-art diffusion models for image, audio, and video generation.
 - **Key Capabilities:** Unified pipeline API supporting SD 1.5/2.1, SDXL, SD 3.5, FLUX.1, Kandinsky, PixArt-α, DeepFloyd IF, and modern schedulers (DDIM, DPMSolverMultistep, EulerDiscrete) with FlashAttention and torch.compile acceleration.
 
 ### 7. [lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet)
-[![GitHub stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social&color=white)](https://github.com/lllyasviel/ControlNet/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social&color=white)](https://github.com/lllyasviel/ControlNet/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Groundbreaking neural network architecture adding spatial conditioning controls to large diffusion models.
 - **Key Capabilities:** Enables deterministic geometric composition through Canny edge maps, depth estimation, OpenPose skeletal poses, semantic segmentation, surface normals, and scribble guidance.
 
 ### 8. [invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI)
-[![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Professional visual creation toolkit engineered for production artists and studio teams.
 - **Key Capabilities:** Unified Infinite Canvas for non-destructive inpainting, regional prompting, outpainting, Control Layers, custom asset boards, enterprise workflow collaboration, and clean local deployment.
 
 ### 9. [Stability-AI / generative-models](https://github.com/Stability-AI/generative-models)
-[![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers)
 - **License:** Stability AI Community License / MIT
 - **Focus:** Official Stability AI research codebase powering SDXL, SDXL Turbo, SV3D, and Stable Video Diffusion (SVD).
 - **Key Capabilities:** Production training, inference, and fine-tuning scripts for high-resolution 1024×1024 latent models, video diffusion, and multi-view 3D synthesis.
 
 ### 10. [black-forest-labs / flux](https://github.com/black-forest-labs/flux)
-[![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social&color=white)](https://github.com/black-forest-labs/flux/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social&color=white)](https://github.com/black-forest-labs/flux/stargazers)
 - **License:** Apache-2.0 (schnell) / Non-Commercial (dev)
 - **Focus:** State-of-the-art 12-billion parameter rectified flow transformer (DiT) models created by the original Stable Diffusion inventors.
 - **Key Capabilities:** Exceptional prompt comprehension, photorealistic anatomy rendering, native typography synthesis, rotary position embeddings (RoPE), and competitive quality exceeding proprietary giants.
 
 ### 11. [Sanster / IOPaint](https://github.com/Sanster/IOPaint)
-[![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Production-grade image inpainting and outpainting tool powered by state-of-the-art AI models.
 - **Key Capabilities:** Completely offline web UI supporting SD inpainting, LaMa, MAT, Manga, Real-ESRGAN, and brush-based object removal, watermark erasure, and scene expansion.
 
 ### 12. [KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait)
-[![GitHub stars](https://img.shields.io/github/stars/KwaiVGI/LivePortrait?style=social&color=white)](https://github.com/KwaiVGI/LivePortrait/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/KwaiVGI/LivePortrait?style=social&color=white)](https://github.com/KwaiVGI/LivePortrait/stargazers)
 - **License:** MIT
 - **Focus:** High-efficiency, controllable portrait video animation framework from single reference images.
 - **Key Capabilities:** Real-time head pose retargeting, facial expression synthesis, eye gaze tracking, and lip-syncing without requiring heavy 3DMM fitting.
 
 ### 13. [CompVis / latent-diffusion](https://github.com/CompVis/latent-diffusion)
-[![GitHub stars](https://img.shields.io/github/stars/CompVis/latent-diffusion?style=social&color=white)](https://github.com/CompVis/latent-diffusion/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/CompVis/latent-diffusion?style=social&color=white)](https://github.com/CompVis/latent-diffusion/stargazers)
 - **License:** MIT
 - **Focus:** The seminal research codebase from CVPR 2022 detailing high-resolution image synthesis in latent space.
 - **Key Capabilities:** Establishes the perceptual image compression stage (Autoencoder VQ-GAN / KL) coupled with latent denoising score matching.
 
 ### 14. [lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
-[![GitHub stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white)](https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white)](https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers)
 - **License:** AGPL-3.0
 - **Focus:** High-performance, memory-optimized fork of AUTOMATIC1111 WebUI.
 - **Key Capabilities:** Re-engineered backend with PyTorch native optimizations; slashes VRAM usage by up to 50%, boosts inference speed up to 75%, and provides seamless out-of-the-box FLUX.1 and SDXL support.
 
 ### 15. [Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
-[![GitHub stars](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=social&color=white)](https://github.com/Tencent/HunyuanVideo/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=social&color=white)](https://github.com/Tencent/HunyuanVideo/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Tencent's 13-billion parameter open-source foundation video generation model.
 - **Key Capabilities:** High-definition text-to-video synthesis with dual-stream diffusion transformer architectures, long-term temporal coherence, and bilingual (English/Chinese) prompt support.
 
 ### 16. [bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss)
-[![GitHub stars](https://img.shields.io/github/stars/bmaltais/kohya_ss?style=social&color=white)](https://github.com/bmaltais/kohya_ss/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/bmaltais/kohya_ss?style=social&color=white)](https://github.com/bmaltais/kohya_ss/stargazers)
 - **License:** Apache-2.0
 - **Focus:** The de-facto standard graphical training interface for LoRA, LyCORIS, Dreambooth, and full model fine-tuning.
 - **Key Capabilities:** Granular hyperparameters for optimizer selection (AdamW, Adafactor, Prodigy), aspect ratio bucketing, learning rate schedulers, and caption preprocessing for SD 1.5, SDXL, and modern DiTs.
 
 ### 17. [guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff)
-[![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white)](https://github.com/guoyww/AnimateDiff/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Plug-and-play temporal motion module for animating personalized text-to-image diffusion models.
 - **Key Capabilities:** Injects motion attention layers across temporal dimensions without retraining base 2D checkpoint weights, animating community anime and realistic checkpoints seamlessly.
 
 ### 18. [Acly / krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion)
-[![GitHub stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=social&color=white)](https://github.com/Acly/krita-ai-diffusion/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=social&color=white)](https://github.com/Acly/krita-ai-diffusion/stargazers)
 - **License:** GPL-3.0
 - **Focus:** Professional AI painting plugin integrating ComfyUI directly inside Krita.
 - **Key Capabilities:** Live interactive canvas painting, layer-aware inpainting, sketch-to-image synthesis, upscaling, and native digital artist workflow integration.
 
 ### 19. [lucidrains / denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
-[![GitHub stars](https://img.shields.io/github/stars/lucidrains/denoising-diffusion-pytorch?style=social&color=white)](https://github.com/lucidrains/denoising-diffusion-pytorch/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lucidrains/denoising-diffusion-pytorch?style=social&color=white)](https://github.com/lucidrains/denoising-diffusion-pytorch/stargazers)
 - **License:** MIT
 - **Focus:** Elegant, minimal, and readable PyTorch implementation of Denoising Diffusion Probabilistic Models (DDPM).
 - **Key Capabilities:** Idiomatic reference implementation covering Gaussian diffusion, 1D/2D U-Nets, linear and cosine beta schedules, and classifier-free guidance.
 
 ### 20. [openai / guided-diffusion](https://github.com/openai/guided-diffusion)
-[![GitHub stars](https://img.shields.io/github/stars/openai/guided-diffusion?style=social&color=white)](https://github.com/openai/guided-diffusion/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/openai/guided-diffusion?style=social&color=white)](https://github.com/openai/guided-diffusion/stargazers)
 - **License:** MIT
 - **Focus:** Seminal research codebase for "Diffusion Models Beat GANs on Image Synthesis" (NeurIPS 2021).
 - **Key Capabilities:** Classifier guidance and improved noise scheduling that established diffusion models as the new reigning generative vision paradigm over generative adversarial networks.
 
 ### 21. [tencent-ailab / IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
-[![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter?style=social&color=white)](https://github.com/tencent-ailab/IP-Adapter/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tencent-ailab/IP-Adapter?style=social&color=white)](https://github.com/tencent-ailab/IP-Adapter/stargazers)
 - **License:** Apache-2.0
 - **Focus:** Image Prompt Adapter for pretrained text-to-image diffusion models.
 - **Key Capabilities:** Decoupled cross-attention mechanism enabling image prompts (style reference, character face consistency, structural transfer) without modifying base diffusion weights.
 
 ### 22. [Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
-[![GitHub stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=social&color=white)](https://github.com/Stability-AI/StableSwarmUI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=social&color=white)](https://github.com/Stability-AI/StableSwarmUI/stargazers)
 - **License:** MIT
 - **Focus:** Official Stability AI enterprise-grade modular web user interface.
 - **Key Capabilities:** High-throughput cluster generation with ComfyUI backend integration, batch dispatching, grid generation, multi-GPU load balancing, and cross-platform installation.
@@ -241,7 +241,7 @@ We welcome additions, corrections, and benchmark submissions from researchers an
    ```
 3. **✏️ Update `README.md`:**
    - For **SaaS platforms**, update the markdown table with specific starting tier pricing and exact free tier/trial limits.
-   - For **Open-Source projects**, add the social star badge (`style=social&color=white`) linking to its stargazers page, and maintain strict descending star-count sorting.
+   - For **Open-Source projects**, add the social Stars_Badge (`style=social&color=white`) linking to its stargazers page, and maintain strict descending star-count sorting.
 4. **💬 Commit your changes:**
    ```bash
    git commit -m "feat: add [Tool Name] with pricing and benchmarks"
